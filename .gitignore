@@ -1,5 +1,7 @@
 *.txt
 !important.txt
 *.jpg
+*.png
+
 
 
