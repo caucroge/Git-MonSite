@@ -1,6 +1,7 @@
 *.txt
 !important.txt
 *.jpg
+*.gif
 *.png
 *.xml
 
